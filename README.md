@@ -39,23 +39,3 @@ I am a Full Stack Developer from Maharashtra, India, passionate about architecti
 
 **Database & Cloud/DevOps:**  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay4251&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Akshay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay4251&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay4251&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-<p align="center">
-  <i>"Writing code that turns complex problems into elegant solutions."</i>
-</p>
