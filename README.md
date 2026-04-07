@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Akshay Shingade 👋
 
-<!--
-**Akshay4251/Akshay4251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Software Developer from Maharashtra, India, passionate about building robust web and cross-platform mobile applications. 
 
-Here are some ideas to get you started:
+* 🏢 Currently working as a **Software Developer** at Kalibyte Solutions.
+* 🚀 Building multi-tenant SaaS platforms, enterprise mobile apps, and government portals.
+* 🛠️ **Tech Stack:** Next.js, React.js, React Native, Spring Boot, PostgreSQL, Docker & AWS.
+* 🎓 Master of Computer Applications (MCA) Postgrad.
+* 🤝 Open to collaborating on open-source projects and innovative software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📫 Let's Connect:**
+* [LinkedIn](https://linkedin.com/in/akshay-shingade)
+* [Portfolio](https://akshayshingadeportfolio.netlify.app)
+* Email: akshayshingade4251@email.com
